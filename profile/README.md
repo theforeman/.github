@@ -1,4 +1,4 @@
-![Foreman Header](https://raw.githubusercontent.com/theforeman/.github/main/profile/foreman-header.png)
+![Foreman Header](https://raw.githubusercontent.com/theforeman/.github/develop/profile/foreman-header.png)
 
 # The Foreman Project
 
