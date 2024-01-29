@@ -38,4 +38,4 @@ For getting easily started check out the [documentation](https://docs.theforeman
 
 There is also an [overview of trainings](https://theforeman.org/training.html) provided by different companies.
 
-If you prefer assistance, benefit by companies providing [professional services](https://theforeman.org/professional-services.html) or even consider one of the downstream products: [Red Hat Network Satellite](https://www.redhat.com/en/technologies/management/satellite) or [orcharhino](https://orcharhino.com/).
+If you prefer assistance, benefit by companies providing [professional services](https://theforeman.org/professional-services.html) or even consider one of the downstream products: [Red Hat Satellite](https://www.redhat.com/en/technologies/management/satellite) or [orcharhino](https://orcharhino.com/).
